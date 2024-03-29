@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TV BELLA</title>
+    <link rel="stylesheet" href="style.css" />
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js">
+    </script>
+</head>
+
+<body>
+    <div class="container">
+        <div class="player--container">
+            <div id="player"></div>
+            <script src="https://jwpsrv.com/library/FfMxTl3oEeSEiiIACxmInQ.js"></script>
+            <div id="aRzklaXf">Loading the player...</div>
+        </div>
+        <div class="channel--list">
+            <h2>Lista de canales</h2>
+            <div id="list"></div>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        const list = document.getElementById("list");
+        let currentActiveButton = null;
+
+        fetch('channels.json')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Error de red');
+                }
+                return response.json();
+            })
+            .then(data => {
+                list.innerHTML = data.map(item => `<div>
+                    <button class="channel--item" onclick="change(this, '${item.url}', '${item.tvg_logo}')">
+                        <img src="${item.tvg_logo}"/>  
+                        <span>${item.name}</span>
+                    </button>
+                    </div>`).join('');
+            })
+            .catch(error => {
+                console.error('Hubo un problema con la petición Fetch:', error);
+            });
+
+        function change(button, value, image) {
+            if (currentActiveButton) {
+                currentActiveButton.classList.remove('active'); // Remueve la clase 'active' del botón previamente activo
+            }
+            button.classList.add('active'); // Agrega la clase 'active' al botón actualmente activo
+            currentActiveButton = button; // Actualiza el botón activo
+
+            var playerInstance = jwplayer("aRzklaXf");
+            playerInstance.setup({
+                "file": value,
+                "height": "100%",
+                "width": "100%",
+                stretching: "bestfit",
+                "image": image,
+                "mediaid": "player",
+                "mute": true,
+                "cast": {
+                    "appid": "player",
+                    "logo": "https://i.ibb.co/Tgk2YrC/Logo.png",
+                },
+                "autostart": true,
+            });
+        }
+    </script>
+</body>
+
+</html>
