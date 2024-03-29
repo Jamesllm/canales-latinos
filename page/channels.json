@@ -122,10 +122,24 @@
         "url": "https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8"
     },
     {
-        "tvg-id": "Mimusica Perú",
-        "tvg_logo": "https://bittchannel.com/wp-content/uploads/2023/05/Logo-Mimusica-Peru-Alpha-AOriginal-e1687136439515-1024x362.png",
+        "tvg-id": "The Retro Channel",
+        "tvg_logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6720c003e5adc507e1cd29a6af87ec4a.webp",
         "group-title": "General",
-        "name": "Mimusica Perú",
-        "url": "http://191.97.60.193:10000/play/a030/index.m3u8"
+        "name": "The Retro Channel",
+        "url": "https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Puro Romance TV",
+        "tvg_logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9424bd94fdf0c4154dff529f4fdfa9b4.webp",
+        "group-title": "General",
+        "name": "Puro Romance TV",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082"
+    },
+    {
+        "tvg-id": "Karibeña TV",
+        "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Logokaribe%C3%B1atv.png/150px-Logokaribe%C3%B1atv.png",
+        "group-title": "General",
+        "name": "Karibeña TV",
+        "url": "http://bantel.iptvperu.tv:1935/transcoderip/karibena_t1/playlist.m3u8"
     }
 ]
