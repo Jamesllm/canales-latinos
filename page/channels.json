@@ -108,6 +108,13 @@
         "url": "https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8"
     },
     {
+        "tvg-id": "Karibeña TV",
+        "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Logokaribe%C3%B1atv.png/150px-Logokaribe%C3%B1atv.png",
+        "group-title": "General",
+        "name": "Karibeña TV",
+        "url": "https://iptv-c9-x-m-mck9-video.cusac.online:50050/karibena/index.fmp4.m3u8"
+    },
+    {
         "tvg-id": "Old Music TV",
         "tvg_logo": "https://pbs.twimg.com/media/FSimCx8X0AI_8QI?format=png&name=small",
         "group-title": "General",
@@ -134,12 +141,5 @@
         "group-title": "General",
         "name": "Puro Romance TV",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082"
-    },
-    {
-        "tvg-id": "Karibeña TV",
-        "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Logokaribe%C3%B1atv.png/150px-Logokaribe%C3%B1atv.png",
-        "group-title": "General",
-        "name": "Karibeña TV",
-        "url": "https://iptv-c9-x-m-mck9-video.cusac.online:50050/karibena/index.fmp4.m3u8"
     }
 ]
