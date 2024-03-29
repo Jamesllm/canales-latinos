@@ -120,5 +120,12 @@
         "group-title": "General",
         "name": "Top Latino",
         "url": "https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Mimusica Perú",
+        "tvg_logo": "https://bittchannel.com/wp-content/uploads/2023/05/Logo-Mimusica-Peru-Alpha-AOriginal-e1687136439515-1024x362.png",
+        "group-title": "General",
+        "name": "Mimusica Perú",
+        "url": "http://191.97.60.193:10000/play/a030/index.m3u8"
     }
 ]
