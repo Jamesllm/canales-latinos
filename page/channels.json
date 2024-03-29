@@ -1,13 +1,5 @@
 [
     {
-        "tvg-id": "PE | Canal N",
-        "tvg-name": "PE | Canal N",
-        "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png",
-        "group-title": "NOTICIAS E INFORMACION",
-        "name": "Canal N",
-        "url": "http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/11.m3u8"
-    },
-    {
         "tvg-id": "Latina.pe",
         "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg",
         "group-title": "General",
@@ -51,36 +43,6 @@
         "url": "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8"
     },
     {
-        "tvg-id": "ClaroSports.mx",
-        "tvg_logo": "https://logowik.com/content/uploads/images/claro-sports3578.logowik.com.webp",
-        "group-title": "Sports",
-        "name": "Claro Sports",
-        "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true"
-    },
-    {
-        "tvg-id": "MX | Claro Cinema",
-        "tvg-name": "MX | Claro Cinema",
-        "tvg_logo": "https://trademarks.justia.com/media/og_image.php?serial=86830508",
-        "group-title": "PELICULAS Y SERIES",
-        "name": "Claro Cinema",
-        "url": "http://138.59.177.34:8000/play/a05b/index.m3u8"
-    },
-    {
-        "tvg-id": "MX | Canal Claro",
-        "tvg-name": "MX | Canal Claro",
-        "tvg_logo": "https://yt3.ggpht.com/ytc/AMLnZu_wMka8ic6GW1I8vfkcLln4EVGxKvqesLkuFTuI=s900-c-k-c0x00ffffff-no-rj",
-        "group-title": "MISCELANEO",
-        "name": "Canal Claro",
-        "url": "http://138.59.177.34:8000/play/a01t/index.m3u8"
-    },
-    {
-        "tvg-id": "eSportsMaxTV.ve",
-        "tvg_logo": "https://play-lh.googleusercontent.com/DeDOZbtJt_WwCe5SmLQoIt9zurIgnq7nOzZlGjanVAaDfnDRiK3v4JOF1jyYw5WU7MSx",
-        "group-title": "Animation",
-        "name": "eSports Max",
-        "url": "http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8"
-    },
-    {
         "tvg-id": "NacionalTvPeru.pe",
         "tvg_logo": "https://yt3.googleusercontent.com/8Wmq7-7yr3NZnZjZAnYfUAVPzgDVlHAwgCRdlaWsoy2Jv6x2uBUHVmLvy6gEmfcBn7I6BNuJTg=s900-c-k-c0x00ffffff-no-rj",
         "group-title": "Undefined",
@@ -109,25 +71,11 @@
         "url": "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8"
     },
     {
-        "tvg-id": "RCNNovelas.co",
-        "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/a/ab/RCN_Novelas_logo_2019.png",
-        "group-title": "Entertainment",
-        "name": "RCN Novelas",
-        "url": "http://stream.flynetwifi.com:1935/live/mobile-066/playlist.m3u8"
-    },
-    {
         "tvg-id": "RCNXtra.co",
         "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Rcn-xtra_2.png",
         "group-title": "Entertainment",
         "name": "RCN Xtra",
         "url": "https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8"
-    },
-    {
-        "tvg-id": "TelemundoInternacional.us",
-        "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg",
-        "group-title": "General",
-        "name": "Telemundo Internacional",
-        "url": "http://stream.flynetwifi.com:1935/live/mobile-152/playlist.m3u8"
     },
     {
         "tvg-id": "TVPalmeras.pe",
@@ -145,22 +93,6 @@
         "url": "https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530"
     },
     {
-        "tvg-id": "USA | Sony Channel",
-        "tvg-name": "USA | Sony Channel",
-        "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/120px-Sony_Channel_Logo.png",
-        "group-title": "PELICULAS Y SERIES",
-        "name": "Sony Channel",
-        "url": "http://bantel.iptvperu.tv:1935/transcoderip/sonychannel_t4/playlist.m3u8"
-    },
-    {
-        "tvg-id": "USA | Sony Movies",
-        "tvg-name": "USA | Sony Movies",
-        "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/120px-Sony_Movies_Logo.svg.png",
-        "group-title": "PELICULAS Y SERIES",
-        "name": "Sony Movies",
-        "url": "http://bantel.iptvperu.tv:1935/transcoderip/SonyMovies_t4/playlist.m3u8"
-    },
-    {
         "tvg-id": "AR | AnimeStation",
         "tvg-name": "AR | AnimeStation",
         "tvg_logo": "https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png",
@@ -176,62 +108,11 @@
         "url": "https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8"
     },
     {
-        "tvg-id": "Cartoon Network",
-        "tvg-name": "Cartoon Network",
-        "tvg_logo": "https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png",
-        "group-title": "",
-        "name": "Cartoon Network",
-        "url": "http://168.227.22.18:1935/live/mobile-029/playlist.m3u8"
-    },
-    {
-        "tvg-id": "Discovery Channel",
-        "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png",
-        "group-title": "General",
-        "name": "Discovery Channel",
-        "url": "http://168.227.22.18:1935/live/mobile-006/playlist.m3u8"
-    },
-    {
-        "tvg-id": "Animal Planet",
-        "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png",
-        "group-title": "General",
-        "name": "Animal Planet",
-        "url": "http://168.227.22.18:1935/live/mobile-068/playlist.m3u8"
-    },
-    {
-        "tvg-id": "DreamWorks",
-        "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/8/84/DreamWorks_Channel_Logo.svg",
-        "group-title": "General",
-        "name": "DreamWorks",
-        "url": "http://168.227.22.18:1935/live/mobile-099/playlist.m3u8"
-    },
-    {
-        "tvg-id": "Universal TV",
-        "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/167px-Universal_TV_logo.svg.png",
-        "group-title": "General",
-        "name": "Universal TV",
-        "url": "http://168.227.22.18:1935/live/mobile-064/playlist.m3u8"
-    },
-    {
-        "tvg-id": "Disney Channel",
-        "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/200px-2019_Disney_Channel_logo.svg.png",
-        "group-title": "General",
-        "name": "Disney Channel",
-        "url": "http://bantel.iptvperu.tv:1935/transcoderip/disneychannel_t2.stream/playlist.m3u8"
-    },
-    {
         "tvg-id": "Old Music TV",
         "tvg_logo": "https://pbs.twimg.com/media/FSimCx8X0AI_8QI?format=png&name=small",
         "group-title": "General",
         "name": "Old Music TV",
         "url": "https://marine2.miplay.cl/oldmusic/playlist.m3u8"
-    },
-    {
-        "tvg-id": "Mimusica Reggaeton",
-        "tvg-name": "Mimusica Reggaeton",
-        "tvg_logo": "https://s3.vcdn.biz/static/f/5670663411/image.jpg",
-        "group-title": "MISCELANEO",
-        "name": "Mimusica Reggaeton",
-        "url": "http://177.234.230.226:8010/play/a020/index.m3u8"
     },
     {
         "tvg-id": "Top Latino",
