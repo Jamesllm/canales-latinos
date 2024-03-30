@@ -9,9 +9,9 @@ http://190.61.55.186:1010/play/a00q/index.m3u8
 https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png" group-title="General",ATV HD
 https://alba-pe-atv-atv.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="General",ATV +
+#EXTINF:-1 tvg-id="atv_mas.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="General",ATV +
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV_Sur_-_2018_logo_%28proposed%29.png" group-title="General",ATV SUR
+#EXTINF:-1 tvg-id="atv_sur.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV_Sur_-_2018_logo_%28proposed%29.png" group-title="General",ATV SUR
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Animation",eSports Max
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
