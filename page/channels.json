@@ -43,13 +43,6 @@
         "url": "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8"
     },
     {
-        "tvg-id": "Gol Peru",
-        "tvg_logo": "https://i.pinimg.com/originals/74/6a/23/746a2351b447660e738281490be3b50e.png",
-        "group-title": "General",
-        "name": "Gol Peru",
-        "url": "https://server.tvhdlibre.com:442/golperu/tracks-v1a1/mono.m3u8?remote=179.6.47.3&token=8a285249a2dac4ee722b91418eb76870e6b6c03e-106b02b7bdd01ec750c6e08866ee2f0c-1711777372-1711766572"
-    },
-    {
         "tvg-id": "TV Perú",
         "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png",
         "group-title": "General",
@@ -93,19 +86,18 @@
         "url": "https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530"
     },
     {
-        "tvg-id": "AR | AnimeStation",
-        "tvg-name": "AR | AnimeStation",
-        "tvg_logo": "https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png",
-        "group-title": "INFANTILES",
-        "name": "AnimeStation",
-        "url": "https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8"
+        "tvg-id": "Planeta TV",
+        "tvg_logo": "https://cdn.m3u.cl/logo/1092_Planeta_TV.png",
+        "group-title": "General",
+        "name": "Planeta TV",
+        "url": "https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL"
     },
     {
         "tvg-id": "ExitosaTV.pe",
         "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png",
         "group-title": "News",
         "name": "Exitosa",
-        "url": "https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8"
+        "url": "https://iptv-c9-x-m-mck9-video.cusac.online:50050/exitosa/index.fmp4.m3u8"
     },
     {
         "tvg-id": "Onda Digital",
@@ -134,13 +126,6 @@
         "group-title": "General",
         "name": "Karibeña TV",
         "url": "https://iptv-c9-x-m-mck9-video.cusac.online:50050/karibena/index.fmp4.m3u8"
-    },
-    {
-        "tvg-id": "Old Music TV",
-        "tvg_logo": "https://pbs.twimg.com/media/FSimCx8X0AI_8QI?format=png&name=small",
-        "group-title": "General",
-        "name": "Old Music TV",
-        "url": "https://marine2.miplay.cl/oldmusic/playlist.m3u8"
     },
     {
         "tvg-id": "Top Latino",
