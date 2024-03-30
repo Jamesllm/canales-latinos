@@ -57,6 +57,20 @@
         "url": "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8"
     },
     {
+        "tvg-id": "TV Perú",
+        "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png",
+        "group-title": "General",
+        "name": "TV Perú 2",
+        "url": "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8"
+    },
+    {
+        "tvg-id": "Sol TV",
+        "tvg_logo": "https://scontent.fcix1-1.fna.fbcdn.net/v/t39.30808-6/339649187_241014208430045_6503004355857672498_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=5f2048&_nc_ohc=XxVV3ZYWRYMAX-Wqpd6&_nc_ht=scontent.fcix1-1.fna&oh=00_AfDBMu-s8CjjY6pqX1lRb3MvBOwZwz93US_EVHmcEaOhYQ&oe=660D5BBF",
+        "group-title": "General",
+        "name": "Sol TV",
+        "url": "https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8"
+    },
+    {
         "tvg-id": "RCNXtra.co",
         "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Rcn-xtra_2.png",
         "group-title": "Entertainment",
@@ -101,11 +115,11 @@
         "url": "https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8"
     },
     {
-        "tvg-id": "Pluto Anime",
-        "tvg_logo": "https://cdn.worldvectorlogo.com/logos/pluto-tv-6.svg",
+        "tvg-id": "Telemundo Puerto Rico",
+        "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png",
         "group-title": "General",
-        "name": "Pluto Anime",
-        "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&app_name=web&clientDeviceType=0&clientID=3d8e9388-fb24-475e-bddb-7fe8b32f15bf&clientModelNumber=1.0.0&country=PE&deviceDNT=false&deviceId=3d8e9388-fb24-475e-bddb-7fe8b32f15bf&deviceLat=-6.7700&deviceLon=-79.8500&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=123.0.0&marketingRegion=VE&serverSideAds=false&sessionID=49ac7bc1-ee41-11ee-b0d3-9e8e5ae60a74&sid=49ac7bc1-ee41-11ee-b0d3-9e8e5ae60a74&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImNmZTZhNzdiLTkxMmQtNGFmOS05Y2MxLTY4ZmM5NTE5YTk2NCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI0OWFjN2JjMS1lZTQxLTExZWUtYjBkMy05ZThlNWFlNjBhNzQiLCJjbGllbnRJUCI6IjE3OS42LjQ3LjMiLCJjaXR5IjoiQ2hpY2xheW8iLCJwb3N0YWxDb2RlIjoiMTQwMDkiLCJjb3VudHJ5IjoiUEUiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0IjotNi43Njk5OTk5ODA5MjY1MTQsImRldmljZUxvbiI6LTc5Ljg0OTk5ODQ3NDEyMTEsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEyMy4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjguMC4wLTExMWIyYjlkYzAwYmQwYmVhOTAzMGIzMDY2MjE1OWVkOWU3YzhiYzYiLCJjbGllbnRJRCI6IjNkOGU5Mzg4LWZiMjQtNDc1ZS1iZGRiLTdmZThiMzJmMTViZiIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0xpbWEiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7ImlzU3RpdGNoZXJFa3MiOnRydWUsIm11bHRpUG9kQWRzIjp7ImVuYWJsZWQiOnRydWV9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiIzZDhlOTM4OC1mYjI0LTQ3NWUtYmRkYi03ZmU4YjMyZjE1YmYiLCJmd1ZjSUQyQ29wcGEiOiIzZDhlOTM4OC1mYjI0LTQ3NWUtYmRkYi03ZmU4YjMyZjE1YmYiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjNkOGU5Mzg4LWZiMjQtNDc1ZS1iZGRiLTdmZThiMzJmMTViZiIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDMsMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpNMlE0WlRrek9EZ3RabUl5TkMwME56VmxMV0prWkdJdE4yWmxPR0l6TW1ZeE5XSm0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzExODUzODY3LCJpYXQiOjE3MTE3Njc0NjcsImp0aSI6IjRkOTkwY2NiLThlZTAtNDRiNC05NmZkLTU5YmRmZDQ5MDIyNSJ9.ZlnrcKGnEBhnrB30YumIhxjpiBDnJvMkbQBWhB6k4xQ&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQE7bXSk_bxEr3JVoFJ-aE0Dm0OD5GAR1d3lP9XLoXYAV4X7Z8kwIQew62W0w-KzoVzdJsF5jPhoH9BBSeL45oY82DBvbcCuiVfcIW-49IYdP0c-Px2AJ6_7MjvtIpkbC8TyYlZOCed5VP-2yvQlmkHXLIjSZFfZ0CMTSxpxLlnCYYP9HpmACSBWTK4YOngEhKPD6I9j5AbTmsF5-AKiaBSbvlPuMfo__Ja6SojGBYs62vS160uPdFz0WfW1XROL8i0SOHTYoGizZDklDWEyc2fxHotlcrub6EE-ZYtII7lh-EPTCidemVdRsuEGL_1dg-dub6Ps0S6Hvu9tBDohBP7rjovjGiKaDJNIS9_c-7Z2BNhXYohedhnz1UUx2Kkxz2cZzHDTbR-t2iXPs45hTgGsvT08tezgQpbx0PiDI38cSmnH9P-Ux-XHRS7Gp-CZpdDJhBnnj--lN5lDBjBNN3TRlbpA6wik2gWxYI_MX-CpFJDg2rakcYIf4CXBhoQ6vKdXVpJ-mtXr6EA6ktKHy_aT3O_ZR5FbtinjKcmX9LtUixmLXFFgxrm1L13uwKn0mo8hW5FmIyn7wgDb1t6eCNxQXuVTaTDmNlWnKzzS5WpF_EIB9FVKKNdwubVq1n9NBk4XAOMfehl64TpDaT1G-45I8h2JJ69DVqV7P2xUpEqkP78VFBKw1dI5LrH7Ex3JSq2A1EhYARs6526JGP1gj4CcP7lfIHVxrnaj4OahgdGZZDMen_v8XkVLZvoGsoqTBIQ4VnTzEm_bbsHq0k6t-DFMCBtM0VmklBjbbLye9t_u6cLIG4XQza0XLfBL5LQ-3Eb-UBaqgfSE-Jcuttm0Z3L7xlvHMNl1IGIPjkbMhkJNJuEFrfgo1HOV-l8dyp1YoTmB-LUihaOejilhZUXjyPEeJHNGJq2gsybVC8OxPR-jtk1KCVDxUdh6zCvdaTreTZwGJ2SUy7YByly8EdEjEohsMGGUyijs5Q3hZocr9TxoFsE0NZ4iQXZtXPvisPI8dktO_FmXBsc67nH9zJMD7Jf-eR5g2vl50kt062LkslobvBcQ3mMCepaHP7_DURFa5VcNUeERMO11-oPtNdsKHKxmy5rLQIyK2S--E5RrkL_v3DT3eCmFQTE2EB_b6nqNldVeVD-fP5ke0tVThVz1tl6nEGIG5creYXMNznROBHcYwGx3pPTWJNn-kU-Q-Vs6gL0Xk2ow-dfgGP0gxTKEN_M7kkO0u5iY-ArZnheLMtuQeBaVS9hDfYL&eventVOD=false&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2207e75c86-bfbf-4d03-a60f-664165e2dae8%22%2Csu"
+        "name": "Telemundo Puerto Rico",
+        "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
     },
     {
         "tvg-id": "Señal Perú",
