@@ -15,6 +15,14 @@
         "url": "https://02.tiofutbol.com:442/mdeportes/tracks-v1a1/mono.m3u8?remote=179.6.47.3&token=b9fcd6418763fa3e491cc6c7048d60e2dacd2a91-b66ef0d18fa1c24ad2de8d0af94db49e-1711752302-1711741502"
     },
     {
+        "tvg-id": "PE | Movistar Deportes",
+        "tvg-name": "PE | Movistar Deportes",
+        "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/200px-Movistar_Deportes.svg.png",
+        "group-title": "DEPORTES",
+        "name": "Movistar Deportes 2",
+        "url": "https://server.tvhdlibre.com:442/tvhd/tracks-v1a1/mono.m3u8?remote=179.6.47.3&token=c13b450dc7ae07e58cdef627bc211f4def59a1fd-94b8b72bae9f9cec9f92700db6eac318-1711777157-1711766357"
+    },
+    {
         "tvg-id": "america.pe",
         "tvg_logo": "https://play-lh.googleusercontent.com/NacE2CzjBkMD0L2_SAxzefoN20pMJCnBdHiJDmoqxMs4C8Ql8XmXzcV5fBqbQ8IFDH8",
         "group-title": "General",
@@ -120,5 +128,19 @@
         "group-title": "General",
         "name": "Puro Romance TV",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082"
+    },
+    {
+        "tvg-id": "Onda Digital",
+        "tvg_logo": "https://storage.googleapis.com/wzukusers/user-30206800/images/59f8069cdb36eJ6SxNBm/LOGO-OGM-CON-FONDO_d400.png",
+        "group-title": "General",
+        "name": "Onda Digital",
+        "url": "https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Gol Peru",
+        "tvg_logo": "https://i.pinimg.com/originals/74/6a/23/746a2351b447660e738281490be3b50e.png",
+        "group-title": "General",
+        "name": "Gol Peru",
+        "url": "https://server.tvhdlibre.com:442/golperu/tracks-v1a1/mono.m3u8?remote=179.6.47.3&token=8a285249a2dac4ee722b91418eb76870e6b6c03e-106b02b7bdd01ec750c6e08866ee2f0c-1711777372-1711766572"
     }
 ]
