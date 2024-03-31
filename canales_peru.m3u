@@ -101,3 +101,7 @@ https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/394.m3u8
 https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/392.m3u8
 #EXTINF:-1 tvg-id="ds_1" tvg-name="DISNEY JR 1" tvg-logo="https://i.postimg.cc/KcCmsJDN/Disney-Junior.png" group-title="→ INFANTILES ←",DISNEY JR 1
 https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/385.m3u8
+#EXTINF:-1 tvg-id="dream_1" tvg-name="DREAMWORKS 1" tvg-logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png" group-title="→ INFANTILES ←",DREAMWORKS 1
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/61597.m3u8
+#EXTINF:-1 tvg-id="dream_2" tvg-name="DREAMWORKS 2" tvg-logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png" group-title="→ INFANTILES ←",DREAMWORKS 2
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/61596.m3u8
