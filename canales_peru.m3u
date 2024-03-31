@@ -69,3 +69,29 @@ https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
 https://livestream.perucast.com/low/stream_low/index.m3u8
 #EXTINF:-1 tvg-id="top.latino" tvg-name="Top Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png/150px-LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="General", Top Latino
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="cnnt_1" tvg-name="CARTOONITO (HD) 1" tvg-logo="https://i.postimg.cc/T2LR9VG6/Cartoonito-Logo-02.png" group-title="→ INFANTILES ←",CARTOONITO (HD) 1
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/61600.m3u8
+#EXTINF:-1 tvg-id="cnnt_2" tvg-name="CARTOONITO (HD) 2" tvg-logo="https://i.postimg.cc/T2LR9VG6/Cartoonito-Logo-02.png" group-title="→ INFANTILES ←",CARTOONITO (HD) 2
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/61603.m3u8
+#EXTINF:-1 tvg-id="cnnt_3" tvg-name="CARTOONITO (HD) 3" tvg-logo="https://i.postimg.cc/T2LR9VG6/Cartoonito-Logo-02.png" group-title="→ INFANTILES ←",CARTOONITO (HD) 3
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/61599.m3u8
+#EXTINF:-1 tvg-id="cnn_1" tvg-name="CARTOON NETWORK (HD) 1" tvg-logo="https://i.postimg.cc/G3yCYbJ3/640px-CARTOON-NETWORK-logo.png" group-title="→ INFANTILES ←",CARTOON NETWORK (HD) 1
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/373.m3u8
+#EXTINF:-1 tvg-id="cnn_2" tvg-name="CARTOON NETWORK (HD) 2" tvg-logo="https://i.postimg.cc/G3yCYbJ3/640px-CARTOON-NETWORK-logo.png" group-title="→ INFANTILES ←",CARTOON NETWORK (HD) 2
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/374.m3u8
+#EXTINF:-1 tvg-id="cnn_3" tvg-name="CARTOON NETWORK (HD) 3" tvg-logo="https://i.postimg.cc/G3yCYbJ3/640px-CARTOON-NETWORK-logo.png" group-title="→ INFANTILES ←",CARTOON NETWORK (HD) 3
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/375.m3u8
+#EXTINF:-1 tvg-id="nik_1" tvg-name="NICKELODEON (HD) 1" tvg-logo="https://i.postimg.cc/T1fpy0Ng/Nickelodeon-png-clipart-logo.png" group-title="→ INFANTILES ←",NICKELODEON (HD) 1
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/390.m3u8
+#EXTINF:-1 tvg-id="nik_2" tvg-name="NICKELODEON (HD) 2" tvg-logo="https://i.postimg.cc/T1fpy0Ng/Nickelodeon-png-clipart-logo.png" group-title="→ INFANTILES ←",NICKELODEON (HD) 2
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/391.m3u8
+#EXTINF:-1 tvg-id="nik_jr_1" tvg-name="NICK JR. (HD) 1" tvg-logo="https://i.postimg.cc/1tLrbktP/Nick-Jr-logo.png" group-title="→ INFANTILES ←",NICK JR. (HD) 1
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/393.m3u8
+#EXTINF:-1 tvg-id="nik_jr_2" tvg-name="NICK JR. (HD) 2" tvg-logo="https://i.postimg.cc/1tLrbktP/Nick-Jr-logo.png" group-title="→ INFANTILES ←",NICK JR. (HD) 2
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/394.m3u8
+#EXTINF:-1 tvg-id="nik_jr_3" tvg-name="NICK JR. (HD) 3" tvg-logo="https://i.postimg.cc/1tLrbktP/Nick-Jr-logo.png" group-title="→ INFANTILES ←",NICK JR. (HD) 3
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/392.m3u8
+#EXTINF:-1 tvg-id="ds_1" tvg-name="DISNEY JR (HD) 1" tvg-logo="https://i.postimg.cc/KcCmsJDN/Disney-Junior.png" group-title="→ INFANTILES ←",DISNEY JR (HD) 1
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/385.m3u8
+#EXTINF:-1 tvg-id="ds_2" tvg-name="DISNEY JR (HD) 2" tvg-logo="https://i.postimg.cc/KcCmsJDN/Disney-Junior.png" group-title="→ INFANTILES ←",DISNEY JR (HD) 2
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/386.m3u8
