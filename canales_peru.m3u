@@ -3,8 +3,6 @@
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="General",Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Movistar Deportes" tvg-name="PE | Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/200px-Movistar_Deportes.svg.png" group-title="DEPORTES", Movistar Deportes
-http://190.61.55.186:1010/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="america.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/1200px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="General",AMERICA TV
 https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png" group-title="General",ATV HD
@@ -13,6 +11,18 @@ https://alba-pe-atv-atv.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="atv_sur.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV_Sur_-_2018_logo_%28proposed%29.png" group-title="General",ATV SUR
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="PE | Movistar Deportes" tvg-name="PE | Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/200px-Movistar_Deportes.svg.png" group-title="DEPORTES", Movistar Deportes
+http://190.61.55.186:1010/play/a00q/index.m3u8
+#EXTINF:-1 tvg-id="mvs_1" tvg-name="MOVISTAR DEPORTES 1" tvg-logo="https://i.postimg.cc/prLCmPg8/1280px-Movistar-Deportes-svg.png" group-title="→ FÚTBOL PERÚ ←",MOVISTAR DEPORTES 1
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/303.m3u8
+#EXTINF:-1 tvg-id="mvs_3" tvg-name="MOVISTAR DEPORTES 2" tvg-logo="https://i.postimg.cc/prLCmPg8/1280px-Movistar-Deportes-svg.png" group-title="→ FÚTBOL PERÚ ←",MOVISTAR DEPORTES 2
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/320.m3u8
+#EXTINF:-1 tvg-id="mvs_4" tvg-name="MOVISTAR DEPORTES 3" tvg-logo="https://i.postimg.cc/prLCmPg8/1280px-Movistar-Deportes-svg.png" group-title="→ FÚTBOL PERÚ ←",MOVISTAR DEPORTES 3
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/321.m3u8
+#EXTINF:-1 tvg-id="mvs_5" tvg-name="MOVISTAR DEPORTES 4" tvg-logo="https://i.postimg.cc/prLCmPg8/1280px-Movistar-Deportes-svg.png" group-title="→ FÚTBOL PERÚ ←",MOVISTAR DEPORTES 4
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/305.m3u8
+#EXTINF:-1 tvg-id="mvs_pl_1" tvg-name="MOVISTAR PLUS 1" tvg-logo="https://i.postimg.cc/fbbY78Hn/Movistar-Plus-Peru-2017-logo.png" group-title="→ FÚTBOL PERÚ ←",MOVISTAR PLUS 1
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/306.m3u8
 #EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Animation",eSports Max
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General",Panamericana TV
@@ -69,29 +79,25 @@ https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
 https://livestream.perucast.com/low/stream_low/index.m3u8
 #EXTINF:-1 tvg-id="top.latino" tvg-name="Top Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png/150px-LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="General", Top Latino
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="cnnt_1" tvg-name="CARTOONITO (HD) 1" tvg-logo="https://i.postimg.cc/T2LR9VG6/Cartoonito-Logo-02.png" group-title="→ INFANTILES ←",CARTOONITO (HD) 1
+#EXTINF:-1 tvg-id="cnnt_1" tvg-name="CARTOONITO 1" tvg-logo="https://i.postimg.cc/T2LR9VG6/Cartoonito-Logo-02.png" group-title="→ INFANTILES ←",CARTOONITO 1
 https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/61600.m3u8
-#EXTINF:-1 tvg-id="cnnt_2" tvg-name="CARTOONITO (HD) 2" tvg-logo="https://i.postimg.cc/T2LR9VG6/Cartoonito-Logo-02.png" group-title="→ INFANTILES ←",CARTOONITO (HD) 2
+#EXTINF:-1 tvg-id="cnnt_2" tvg-name="CARTOONITO 2" tvg-logo="https://i.postimg.cc/T2LR9VG6/Cartoonito-Logo-02.png" group-title="→ INFANTILES ←",CARTOONITO 2
 https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/61603.m3u8
-#EXTINF:-1 tvg-id="cnnt_3" tvg-name="CARTOONITO (HD) 3" tvg-logo="https://i.postimg.cc/T2LR9VG6/Cartoonito-Logo-02.png" group-title="→ INFANTILES ←",CARTOONITO (HD) 3
-https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/61599.m3u8
-#EXTINF:-1 tvg-id="cnn_1" tvg-name="CARTOON NETWORK (HD) 1" tvg-logo="https://i.postimg.cc/G3yCYbJ3/640px-CARTOON-NETWORK-logo.png" group-title="→ INFANTILES ←",CARTOON NETWORK (HD) 1
+#EXTINF:-1 tvg-id="cnn_1" tvg-name="CARTOON NETWORK 1" tvg-logo="https://i.postimg.cc/G3yCYbJ3/640px-CARTOON-NETWORK-logo.png" group-title="→ INFANTILES ←",CARTOON NETWORK 1
 https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/373.m3u8
-#EXTINF:-1 tvg-id="cnn_2" tvg-name="CARTOON NETWORK (HD) 2" tvg-logo="https://i.postimg.cc/G3yCYbJ3/640px-CARTOON-NETWORK-logo.png" group-title="→ INFANTILES ←",CARTOON NETWORK (HD) 2
+#EXTINF:-1 tvg-id="cnn_2" tvg-name="CARTOON NETWORK 2" tvg-logo="https://i.postimg.cc/G3yCYbJ3/640px-CARTOON-NETWORK-logo.png" group-title="→ INFANTILES ←",CARTOON NETWORK 2
 https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/374.m3u8
-#EXTINF:-1 tvg-id="cnn_3" tvg-name="CARTOON NETWORK (HD) 3" tvg-logo="https://i.postimg.cc/G3yCYbJ3/640px-CARTOON-NETWORK-logo.png" group-title="→ INFANTILES ←",CARTOON NETWORK (HD) 3
+#EXTINF:-1 tvg-id="cnn_3" tvg-name="CARTOON NETWORK 3" tvg-logo="https://i.postimg.cc/G3yCYbJ3/640px-CARTOON-NETWORK-logo.png" group-title="→ INFANTILES ←",CARTOON NETWORK 3
 https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/375.m3u8
-#EXTINF:-1 tvg-id="nik_1" tvg-name="NICKELODEON (HD) 1" tvg-logo="https://i.postimg.cc/T1fpy0Ng/Nickelodeon-png-clipart-logo.png" group-title="→ INFANTILES ←",NICKELODEON (HD) 1
+#EXTINF:-1 tvg-id="nik_1" tvg-name="NICKELODEON 1" tvg-logo="https://i.postimg.cc/T1fpy0Ng/Nickelodeon-png-clipart-logo.png" group-title="→ INFANTILES ←",NICKELODEON 1
 https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/390.m3u8
-#EXTINF:-1 tvg-id="nik_2" tvg-name="NICKELODEON (HD) 2" tvg-logo="https://i.postimg.cc/T1fpy0Ng/Nickelodeon-png-clipart-logo.png" group-title="→ INFANTILES ←",NICKELODEON (HD) 2
+#EXTINF:-1 tvg-id="nik_2" tvg-name="NICKELODEON 2" tvg-logo="https://i.postimg.cc/T1fpy0Ng/Nickelodeon-png-clipart-logo.png" group-title="→ INFANTILES ←",NICKELODEON 2
 https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/391.m3u8
-#EXTINF:-1 tvg-id="nik_jr_1" tvg-name="NICK JR. (HD) 1" tvg-logo="https://i.postimg.cc/1tLrbktP/Nick-Jr-logo.png" group-title="→ INFANTILES ←",NICK JR. (HD) 1
+#EXTINF:-1 tvg-id="nik_jr_1" tvg-name="NICK JR. 1" tvg-logo="https://i.postimg.cc/1tLrbktP/Nick-Jr-logo.png" group-title="→ INFANTILES ←",NICK JR. 1
 https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/393.m3u8
-#EXTINF:-1 tvg-id="nik_jr_2" tvg-name="NICK JR. (HD) 2" tvg-logo="https://i.postimg.cc/1tLrbktP/Nick-Jr-logo.png" group-title="→ INFANTILES ←",NICK JR. (HD) 2
+#EXTINF:-1 tvg-id="nik_jr_2" tvg-name="NICK JR. 2" tvg-logo="https://i.postimg.cc/1tLrbktP/Nick-Jr-logo.png" group-title="→ INFANTILES ←",NICK JR. 2
 https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/394.m3u8
-#EXTINF:-1 tvg-id="nik_jr_3" tvg-name="NICK JR. (HD) 3" tvg-logo="https://i.postimg.cc/1tLrbktP/Nick-Jr-logo.png" group-title="→ INFANTILES ←",NICK JR. (HD) 3
+#EXTINF:-1 tvg-id="nik_jr_3" tvg-name="NICK JR. 3" tvg-logo="https://i.postimg.cc/1tLrbktP/Nick-Jr-logo.png" group-title="→ INFANTILES ←",NICK JR. 3
 https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/392.m3u8
-#EXTINF:-1 tvg-id="ds_1" tvg-name="DISNEY JR (HD) 1" tvg-logo="https://i.postimg.cc/KcCmsJDN/Disney-Junior.png" group-title="→ INFANTILES ←",DISNEY JR (HD) 1
+#EXTINF:-1 tvg-id="ds_1" tvg-name="DISNEY JR 1" tvg-logo="https://i.postimg.cc/KcCmsJDN/Disney-Junior.png" group-title="→ INFANTILES ←",DISNEY JR 1
 https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/385.m3u8
-#EXTINF:-1 tvg-id="ds_2" tvg-name="DISNEY JR (HD) 2" tvg-logo="https://i.postimg.cc/KcCmsJDN/Disney-Junior.png" group-title="→ INFANTILES ←",DISNEY JR (HD) 2
-https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/386.m3u8
