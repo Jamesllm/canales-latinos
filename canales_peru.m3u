@@ -105,3 +105,47 @@ https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/385.m3u8
 https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/61597.m3u8
 #EXTINF:-1 tvg-id="dream_2" tvg-name="DREAMWORKS 2" tvg-logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png" group-title="→ INFANTILES ←",DREAMWORKS 2
 https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/61596.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7: EL PAJARO LOCO" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: EL PAJARO LOCO
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/695.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7: DRAGON BALL GT" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: DRAGON BALL GT
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/696.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7: DRAGON BALL SUPER" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: DRAGON BALL SUPER
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/760.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LOONEY TUNES PLATINUM COLLECTION" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOONEY TUNES PLATINUM COLLECTION
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/708.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7: EL SHOW DE LOS LOONEY TUNES" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: EL SHOW DE LOS LOONEY TUNES
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/758.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LOS PICAPIEDRA" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS PICAPIEDRA
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/725.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LA PANTERA ROSA" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LA PANTERA ROSA
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7: DORAEMON" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: DORAEMON
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/776.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LA ROSA DE GUADALUPE" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LA ROSA DE GUADALUPE
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/802.m3u8
+#EXTINF:-1 tvg-id="M+ Series HD" tvg-name="ES:M+ SERIES HD" tvg-logo="https://i.ibb.co/b1m08wJ/MV2.png" group-title="→ MOVISTAR CINE ESPAÑA ←",ES:M+ SERIES HD
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/25785.m3u8
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="ES: MOVISTAR CINE ESPAÑOL" tvg-logo="https://i.ibb.co/R3B8J0Z/DCESP.png" group-title="→ ESPAÑA ←",ES: MOVISTAR CINE ESPAÑOL
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/12313.m3u8
+#EXTINF:-1 tvg-id="AXN Movies HD" tvg-name="ES:AXN MOVIES" tvg-logo="https://i.ibb.co/5hq2ShB/SET.png" group-title="→ ESPAÑA ←",ES:AXN MOVIES
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/12320.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="ES:NICKELODEON" tvg-logo="https://i.ibb.co/mzq3d4t/NICK.png" group-title="→ ESPAÑA ←",ES:NICKELODEON
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/12322.m3u8
+#EXTINF:-1 tvg-id="Warner TV HD" tvg-name="ES:WARNER HD" tvg-logo="https://i.ibb.co/yY3TYhg/TNT.png" group-title="→ ESPAÑA ←",ES:WARNER HD
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/12336.m3u8
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="ES:MOVISTAR DEPORTESHD HEVC" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="→ ESPAÑA ←",ES:MOVISTAR DEPORTESHD HEVC
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/12353.m3u8
+#EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-name="ES:LA LIGA TV BAR 1 [LIVE-EVENT]" tvg-logo="https://i.ibb.co/JqW00RS/LIGBAR.png" group-title="→ ESPAÑA ←",ES:LA LIGA TV BAR 1 [LIVE-EVENT]
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/12354.m3u8
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="ES:Movistar Deportes" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="→ ESPAÑA ←",ES:Movistar Deportes
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/12470.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:FOX PREMIUM 1 HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:FOX PREMIUM 1 HD
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/27164.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:FOX PREMIUM 2 HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:FOX PREMIUM 2 HD
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/27165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:FOX SPORTS 2 HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:FOX SPORTS 2 HD
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/27166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:FOX SPORTS HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:FOX SPORTS HD
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/27167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:HBO HD" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:HBO HD
+https://newultra.xyz:8443/live/ericksepulvedatv/p7g6hi/27177.m3u8
